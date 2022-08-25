@@ -2,7 +2,7 @@
 
 :office: MV Sistemas
 
-:computer: I am a Java software developer
+:computer: Java software developer
 
 Atualmente resido no Brasil no estado do Paraná, trabalhando em período integral Remoto na área de T.I. como Desenvolvedor de Software 
 na área da saude, possuo experiência ou contato com as seguintes ferramentas/metodologias: 
