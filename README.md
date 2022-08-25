@@ -20,7 +20,7 @@ Meu projeto principal atual consiste em um sistema de integração responsável 
 para então ser possível realizar o envio por exemplo dos registros de vacinas. 
 
 Falando um pouco sobre mim, sempre gostei da área de tecnologia, comecei a estudar sobre desde muito cedo e até hoje continuo estudando, 
-pois como sabemos, esta é uma área que nunca para de se atualizar. Hoje trabalho com desenvolvimento, porem já trabalhei na area de infra e suporte, 
+pois como sabemos, esta é uma área que nunca para de se atualizar. Hoje trabalho com desenvolvimento, porém já trabalhei na área de infra e suporte, 
 tendo contato com o cliente e entendendo suas necessidades.
 
 Me considero um profissional dedicado e comprometido com minhas obrigações, com vontade e capacidade de aprender algo novo.
