@@ -9,7 +9,8 @@ na área da saude, possuo experiência ou contato com as seguintes ferramentas/m
 - Java (Spring, Spring Boot, Hibernate, Liquibase, Vraptor)
 - API REST
 - JavaScript (Typescript)
-- Angular 
+- Angular
+- React
 - GIT
 - CleanCode
 - Análise de projetos e seus requisitos (JIRA, metodologias ágeis e documentação)
